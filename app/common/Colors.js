@@ -1,0 +1,7 @@
+export const redColor= '#B02E46'
+export const whiteColor= '#fff'
+export const textinputColor='#C5CAD1'
+export const textColor='#636363'
+export const cardColor='#80828B26'
+export const viewTextColor='#99A0B0'
+export const greyColor='#6E7989'
